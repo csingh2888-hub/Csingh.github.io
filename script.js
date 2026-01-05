@@ -1,1 +1,1 @@
-console.log("AC Decors website loaded successfully");
+console.log("AC Decors premium website loaded successfully");
